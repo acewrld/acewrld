@@ -14,4 +14,5 @@ class Exhibit extends Component {
     }
 }
 
+
 export default Exhibit;

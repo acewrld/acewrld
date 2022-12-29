@@ -17,6 +17,7 @@ class PylonWebSocket extends Component {
             })
         };
     }
+    
 
     render() {
         return (
