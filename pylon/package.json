@@ -1,8 +1,17 @@
 {
-    "name": "pylon",
-    "version": "0.1.0",
-    "private": true,
-    "dependencies": {
-        "websocket": "^1.0.34"
-    }
+  "name": "pylon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "A displays packet latency from Pylon",
+  "main": "server.js",
+  "author": "Ademola Olalere",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
